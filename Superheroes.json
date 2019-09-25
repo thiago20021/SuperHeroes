@@ -2,7 +2,7 @@
   "squadName" : "Grove Street",
   "homeTown" : "Usme",
   "formed" : 2016,
-  "secretBase" : "Area 51",
+  "secretBase" : "Area51",
   "active" : true,
   "members" : [
     {
@@ -12,13 +12,12 @@
       "powers" : [
         "Radiation resistance",
         "Turning tiny",
-        "Radiation blast",
-        "Teleportation"
+        "Radiation blast"
       ]
     },
     {
       "name" : "DarkKing",
-      "age" : 25,
+      "age" : 39,
       "secretIdentity" : "Deibyd Garcia",
       "powers" : [
         "Million tonne punch",
@@ -28,7 +27,7 @@
     },
     {
       "name" : "RR",
-      "age" : 16,
+      "age" : 1000000,
       "secretIdentity" : "Raul Hoyos",
       "powers" : [
         "Immortality",
